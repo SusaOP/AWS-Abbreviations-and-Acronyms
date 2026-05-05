@@ -30,6 +30,7 @@ I don't see a reason to make this any longer than a README file.
 | Fargate                       | F8                  |
 | IAM Identity Center           | IAM IC *or* AWS SSO |
 | Lake Formation                | LF                  |
+| Lambda                        | λ                   |
 | Managed Services              | AMS                 |
 | Managed Microsoft AD          | MMAD                |
 | Network Firewall              | NFW *or* NWFW       |
@@ -57,13 +58,28 @@ I don't see a reason to make this any longer than a README file.
 
 ### Non-AWS Shorthands
 
-| Full Name  | Abbreviation          |
-|------------|-----------------------|
-| downtime   | DT                    |
-| deployment | depl. *or* deploy.    |
-| management | mgmt.                 |
-| manager    | mgr. *or* mngr.       |
-
+| Full Name         | Abbreviation          |
+|------------------ | ----------------------|
+| account           | acc.                  |
+| aggregate         | aggr. *or* aggreg.    |
+| before            | b/f                   |
+| behind            | b/h                   |
+| defined           | def.                  |
+| deployment        | depl. *or* deploy.    |
+| destination       | dst. *or* dest.       |
+| downtime          | DT                    |
+| function          | func.                 |
+| management        | mgmt.                 |
+| manager           | mgr. *or* mngr.       |
+| monitor           | monit.                |
+| resource          | resrc                 |
+| source            | src                   |
+| template          | templ.                |
+| value             | val                   |
+| response          | res. *or* resp.       |
+| request           | req.                  |
+| version           | vers.                 |
+| versus            | vs                    |
 
 
 ### AWS Approved Definitions
