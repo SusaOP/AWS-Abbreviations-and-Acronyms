@@ -7,47 +7,50 @@ Besides AWS, I've also included abbreviations for other words/phrases that I've 
 
 I don't see a reason to make this any longer than a README file.
 
-| Service Name              | Abbreviation        |
-| ------------------------- | ------------------- |
-| AppFlow                   | AF                  |
-| Cloud9                    | C9                  |
-| CodeArtifact              | CA                  |
-| CodeBuild                 | CB                  |
-| CodeCatalyst              | CCat                |
-| CodeCommit                | CC                  |
-| CodeDeploy                | CD                  |
-| CodeGuru                  | CG                  |
-| CodePipeline              | CP                  |
-| Config                    | Conf                |
-| Control Tower             | CTow                |
-| Data Pipeline             | DP                  |
-| DataSync                  | DSync               |
-| Direct Connect            | DX                  |
-| EC2 Auto Scaling          | EC2 AS              |
-| Elastic Beanstalk         | EB                  |
-| Elastic Disaster Recovery | DRS                 |
-| Fargate                   | F8                  |
-| IAM Identity Center       | IAM IC *or* AWS SSO |
-| Lake Formation            | LF                  |
-| Managed Services          | AMS                 |
-| Network Firewall          | NFW *or* NWFW       |
-| OpenSearch Service        | OSS                 |
-| Organizations             | Org.                |
-| PrivateLink               | PL                  |
-| QuickSight                | QS                  |
-| Redshift                  | RS                  |
-| Route 53                  | R53                 |
-| SageMaker                 | SM                  |
-| Secrets Manager           | Sec. Mgr.           |
-| Security Hub              | SH or Sec. Hub      |
-| Security Lake             | SL                  |
-| Service Catalog           | SC                  |
-| Step Functions            | SF                  |
-| Storage Gateway           | SGW                 |
-| Systems Manager           | Sys. Mgr.           |
-| Trusted Advisor           | TA                  |
-| Verified Access           | VA                  |
-| Well-Architected Tool     | WAT                 |
+| Service Name                  | Abbreviation        |
+| ----------------------------- | ------------------- |
+| AppFlow                       | AF                  |
+| Cloud9                        | C9                  |
+| CodeArtifact                  | CA                  |
+| CodeBuild                     | CB                  |
+| CodeCatalyst                  | CCat                |
+| CodeCommit                    | CC                  |
+| CodeDeploy                    | CD                  |
+| CodeGuru                      | CG                  |
+| CodePipeline                  | CP                  |
+| Config                        | Conf                |
+| Control Tower                 | CTow                |
+| Data Pipeline                 | DP                  |
+| DataSync                      | DSync               |
+| Direct Connect                | DX                  |
+| DocumentDB                    | DDB                 |
+| EC2 Auto Scaling              | EC2 AS              |
+| Elastic Beanstalk             | EB                  |
+| Elastic Disaster Recovery     | DRS                 |
+| Fargate                       | F8                  |
+| IAM Identity Center           | IAM IC *or* AWS SSO |
+| Lake Formation                | LF                  |
+| Managed Services              | AMS                 |
+| Managed Microsoft AD          | MMAD                |
+| Network Firewall              | NFW *or* NWFW       |
+| OpenSearch Service            | OSS                 |
+| Organizations                 | Org.                |
+| Private Certificate Authority | PCA                 |
+| PrivateLink                   | PL                  |
+| QuickSight                    | QS                  |
+| Redshift                      | RS                  |
+| Route 53                      | R53                 |
+| SageMaker                     | SM                  |
+| Secrets Manager               | Sec. Mgr.           |
+| Security Hub                  | SH or Sec. Hub      |
+| Security Lake                 | SL                  |
+| Service Catalog               | SC                  |
+| Step Functions                | SF                  |
+| Storage Gateway               | SGW                 |
+| Systems Manager               | Sys. Mgr.           |
+| Trusted Advisor               | TA                  |
+| Verified Access               | VA                  |
+| Well-Architected Tool         | WAT                 |
 
 
 
