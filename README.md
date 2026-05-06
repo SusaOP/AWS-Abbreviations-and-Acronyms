@@ -61,6 +61,7 @@ I don't see a reason to make this any longer than a README file.
 | Full Name         | Abbreviation          |
 |------------------ | ----------------------|
 | account           | acc.                  |
+| at                | @                     |
 | aggregate         | aggr. *or* aggreg.    |
 | before            | b/f                   |
 | behind            | b/h                   |
@@ -69,9 +70,11 @@ I don't see a reason to make this any longer than a README file.
 | destination       | dst. *or* dest.       |
 | downtime          | DT                    |
 | function          | func.                 |
+| information       | info                  |
 | management        | mgmt.                 |
 | manager           | mgr. *or* mngr.       |
 | monitor           | monit.                |
+| permissions       | perms.                |
 | resource          | resrc                 |
 | source            | src                   |
 | template          | templ.                |
@@ -80,6 +83,8 @@ I don't see a reason to make this any longer than a README file.
 | request           | req.                  |
 | version           | vers.                 |
 | versus            | vs                    |
+| with              | w\ *or* w/            |
+| without           | w\out *or* w/out      |
 
 
 ### AWS Approved Definitions
